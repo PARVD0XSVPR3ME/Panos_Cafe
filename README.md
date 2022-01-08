@@ -18,7 +18,7 @@ following video:
 - sadas
 - sadas
 
-#### 🧑‍💻 Tech Used
+#### 🧑‍💻 Tech Used
 
 Made with ❤ using the following technologies :
 
