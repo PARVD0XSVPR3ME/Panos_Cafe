@@ -153,6 +153,7 @@ Made with ❤ using the following technologies :
   `coffeeshop`.
 - Then in the `Import` tab click on the `browse...` button and select the `coffeeshop.sql` file included in
   this repo.
+- You must also set a Google Maps API key in `footer.php`.
 
 #### Limitations
 - The website content is written only in Greek
