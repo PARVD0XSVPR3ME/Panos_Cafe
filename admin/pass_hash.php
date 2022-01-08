@@ -1,6 +1,6 @@
 <?php
 
-$password = 2143;
+$password = 1234;
 
 $hashed_pwd = password_hash($password , PASSWORD_DEFAULT);
 echo 'Pass:' ;
