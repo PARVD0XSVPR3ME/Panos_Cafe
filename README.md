@@ -34,7 +34,6 @@
         - International Bank Account Number (IBAN)
     - He can also register the same as the above for every delivery driver
 
-
 - The system administrator can also register the products offered by the local snack and coffee chain and its
   price in the database using `phpMyAdmin` web interface.
 
@@ -99,7 +98,27 @@
   - The manager receives 800 euros per month plus 2% of the store's turnover as a bonus.
   - This store manager subsystem is accessible only by personal computers.
 ##### Delivery Driver
-- Every delivery driver
+- Delivery drivers do not belong to a specific store but they serve all the stores in the local snack and
+  coffee chain.
+- A delivery driver after logging into the system using his username/password pair provided to him by the
+system administrator, must declare/state his status as "Active".
+- A delivery driver at the beginning of his shift he must declare to the system his current location (using
+  the auto-complete feature or by moving the marker over the map).
+- When an order is automatically assigned to him for delivery by the system the delivery driver is informed
+from which store he has to pick up the order (pick-up point) as well as for the location of the customer who
+has placed the order (display the delivery point on a map as well as the customer details).
+- As soon as the delivery driver delivers the order he updates the order status as "Delivered" and he is now
+available for the next order.
+- For the sake of simplicity we assume that after the delivery of each order, the delivery driver does not
+move but he is just waiting at that point for any new delivery assignment.
+- Every delivery driver at the end of his shift should update his status as "Not available", so as not to
+accept new order deliveries.
+- Every delivery driver can be informed about the total amount of money he deserves, the deliveries number he
+  has completed per day as well as the number of kilometers he has traveled per day.
+- The delivery driver remuneration for each working day is calculated as follows:
+
+  `Delivery Driver Remuneration` = `Number Of Hours Worked (Start/end Of Shift)` * `Hourly Allowance` + `Kilometers Traveled` * `Mileage Allowance`
+- The delivery driver interface is designed only for smartphone usage.
 
 ##### Order Processing
 When an order is placed by a customer, the system automatically sends it for processing to the nearest store
