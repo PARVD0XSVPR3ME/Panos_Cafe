@@ -7,9 +7,10 @@
 
 ![](https://i.imgur.com/GdCGArx.png)
 
-##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch the following video:
+##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫
+<!-- or you can also watch the following video: -->
 
-[![](imgur link)](video link)
+<!-- [![](imgur link)](video link) -->
 
 #### ⚙ Features
 ##### System Administrator
