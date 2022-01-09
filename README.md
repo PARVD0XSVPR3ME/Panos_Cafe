@@ -161,8 +161,8 @@ Made with ❤ using the following technologies :
 #### License
 
 All files are licensed under the GPL-3.0 License except `css/bootstrap.min.css`, `css/fontawesome-all.css`,
-`img/wallpaper.jpg`, `img/logo.png`, `js/bootstrap.min.js` and all the files under the `webfonts` folder.
+`img/wallpaper.jpg`, `js/bootstrap.min.js` and all the files under the `webfonts` folder.
 
 `img/logo.png` is copyrighted to Panagiotis Charalampopoulos ©. All Rights Reserved
 
-© <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>
+Copyright © <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>
