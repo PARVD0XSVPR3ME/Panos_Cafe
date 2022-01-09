@@ -157,3 +157,7 @@ Made with ❤ using the following technologies :
 
 #### Limitations
 - The website content is written only in Greek
+
+#### License
+
+© <a href="https://github.com/PARVD0XSVPR3ME">Panagiotis Charalampopoulos</a>
