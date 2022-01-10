@@ -9,14 +9,14 @@
 
 ##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch this [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube (also take a look at the chapters in the video description).
 
-- [Features](#--features)
+- [Features](#features)
   * [System Administrator](#system-administrator)
   * [Customer](#customer)
   * [Store Manager](#store-manager)
   * [Delivery Driver](#delivery-driver)
   * [Order Processing](#order-processing)
-- [Tech Used](#------tech-used)
-- [Instructions](#---instructions)
+- [Tech Used](#tech-used)
+- [Instructions](#instructions)
 - [Limitations](#limitations)
 - [License](#license)
 
