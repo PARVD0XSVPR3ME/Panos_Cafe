@@ -7,10 +7,7 @@
 
 ![](https://i.imgur.com/GdCGArx.png)
 
-##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫
-<!-- or you can also watch the following video: -->
-
-<!-- [![](imgur link)](video link) -->
+##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch the [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube.
 
 #### ⚙ Features
 ##### System Administrator
@@ -153,6 +150,8 @@ Made with ❤ using the following technologies :
   `coffeeshop`.
 - Then in the `Import` tab click on the `browse...` button and select the `coffeeshop.sql` file included in
   this repo.
+- Go to `coffeeshop` > `orders` > `dist_km_store` and set the default value to `NULL`
+- Go to `coffeeshop` > `delivery_order` > `order_id` and set the default value to `NULL`
 - You must also set a Google Maps API key in `footer.php`.
 
 #### Limitations
