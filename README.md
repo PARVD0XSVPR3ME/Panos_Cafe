@@ -9,8 +9,6 @@
 
 ##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch this [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube (also take a look at the chapters in the video description).
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k3QzxADv-Bo/0.jpg)](https://www.youtube.com/watch?v=k3QzxADv-Bo)
-
 ##### Table of Contents
 - [Features](#Features)
   * [System Administrator](#system-administrator)
