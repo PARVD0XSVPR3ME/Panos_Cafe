@@ -9,6 +9,20 @@
 
 ##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch this [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube (also take a look at the chapters in the video description).
 
+- [⚙ Features](#--features)
+  * [System Administrator](#system-administrator)
+  * [Customer](#customer)
+  * [Store Manager](#store-manager)
+  * [Delivery Driver](#delivery-driver)
+  * [Order Processing](#order-processing)
+- [🧑‍💻 Tech Used](#------tech-used)
+- [📖 Instructions](#---instructions)
+- [Limitations](#limitations)
+- [License](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 #### ⚙ Features
 ##### System Administrator
 - The system administrator can register the stores owned by the local snack and coffee chain owner in the
