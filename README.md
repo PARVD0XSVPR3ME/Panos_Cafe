@@ -9,7 +9,7 @@
 
 ##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch this [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube (also take a look at the chapters in the video description).
 
-- [Features](#⚙ Features)
+- [Features](#Features)
   * [System Administrator](#system-administrator)
   * [Customer](#customer)
   * [Store Manager](#store-manager)
