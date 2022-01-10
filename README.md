@@ -20,9 +20,6 @@
 - [Limitations](#limitations)
 - [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 #### Features
 ##### System Administrator
 - The system administrator can register the stores owned by the local snack and coffee chain owner in the
