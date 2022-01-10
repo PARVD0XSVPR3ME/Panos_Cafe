@@ -10,6 +10,7 @@
 ##### You can contact me [here](mailto:paradox.supr@gmail.com) for a demo 📫 or you can also watch this [video](https://www.youtube.com/watch?v=k3QzxADv-Bo) on Youtube (also take a look at the chapters in the video description).
 
 ##### Table of Contents
+- [About](#About)
 - [Features](#Features)
   * [System Administrator](#system-administrator)
   * [Customer](#customer)
@@ -21,11 +22,9 @@
 - [Limitations](#limitations)
 - [License](#license)
 
-<<<<<<< HEAD
 #### About
 A full-stack web application developed using vanilla/plain PHP.
 =======
->>>>>>> parent of b12c652 (Added About Chapter)
 #### Features
 ##### System Administrator
 - The system administrator can register the stores owned by the local snack and coffee chain owner in the
