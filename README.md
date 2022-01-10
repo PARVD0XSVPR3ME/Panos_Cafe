@@ -23,7 +23,7 @@
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
-#### ⚙ Features
+#### Features
 ##### System Administrator
 - The system administrator can register the stores owned by the local snack and coffee chain owner in the
   database using `phpMyAdmin` web interface.
@@ -139,7 +139,7 @@ accordingly. At the same time it assigns the order for delivery to the nearest a
 not currently delivering another order) delivery driver.
 
 
-#### 🧑‍💻 Tech Used
+#### Tech Used
 
 Made with ❤ using the following technologies :
 
@@ -158,7 +158,7 @@ Made with ❤ using the following technologies :
 - MySQL/MariaDB
 - XML
 
-#### 📖 Instructions
+#### Instructions
 
 - Navigate to  [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) and create a new database called
   `coffeeshop`.
