@@ -23,7 +23,7 @@
 - [License](#license)
 
 #### About
-A full-stack web application developed as a University Semester project using vanilla/plain PHP.
+A full-stack web application developed using vanilla/plain PHP.
 #### Features
 ##### System Administrator
 - The system administrator can register the stores owned by the local snack and coffee chain owner in the
